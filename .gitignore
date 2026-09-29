@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# MixedWM38 is 412 MB: download it from Kaggle (see README)
+data/raw/
+reports/test_probabilities.npy
+train_log.txt
